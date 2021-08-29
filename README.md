@@ -15,4 +15,10 @@ In this project, I have used html for writing website contents and CSS for styli
 For surport and Questions, feel free to reach me on,
 E-mail:kipngenosigei04@gmail.com
 Phone No. +254725059416
-Copyright (c) {2021} 
+
+
+### License
+
+
+* [[License: MIT]](LICENSE.md)
+* Copyright (c) 2021 Kipngeno Sigei
